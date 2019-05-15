@@ -1,6 +1,6 @@
 # Getting and Cleaning Data (coursera.org) 
 ## Course Project 
-### By: Diego Fernando Rodríguez Varón
+### By: Diego Fernando RodrÃ­guez VarÃ³n
 
 # Code Book
 
