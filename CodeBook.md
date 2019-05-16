@@ -58,9 +58,10 @@ read and understand it's documentation first. These are the relevant files:
 The result dataset (`tidy_ds` in the script) is the average of each extracted 
 variable for each activity and each subject. The extracted variables are the 
 ones that have `-mean()` or `-std()` on their name. Their description is in the 
-[features_info.txt file](UCI&#32;HAR&#32;Dataset/features_info.txt). Since the values are averages on 
-the  original values which were already the mean and standard deviation of the 
-euclidean norm of acceleration and gyroscope data, the units of the data are not 
+[features_info.txt file](UCI&#32;HAR&#32;Dataset/features_info.txt). Since the 
+values are averages on 
+the  original values which were already the mean and standard deviation of the
+euclidean norm of acceleration and gyroscope data, the units of the data are not
 relevant nor possible to say.
 
 For completeness here is a list of the variables in the tidy dataset:
