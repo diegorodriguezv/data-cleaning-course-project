@@ -50,15 +50,15 @@ structure:
 ```
 This analysis is based on the original dataset so it's very important to 
 read and understand it's documentation first. These are the relevant files:
-- [README.txt](README.txt)
-- [features_info.txt](features_info.txt)
+- [README.txt](UCI&#32;HAR&#32;DATASET/README.txt)
+- [features_info.txt](UCI&#32;HAR&#32;DATASET/features_info.txt)
 
 ## Code book
 
 The result dataset (`tidy_ds` in the script) is the average of each extracted 
 variable for each activity and each subject. The extracted variables are the 
 ones that have `-mean()` or `-std()` on their name. Their description is in the 
-[features_info.txt file](features_info.txt). Since the values are averages on 
+[features_info.txt file](UCI&#32;HAR&#32;DATASET/features_info.txt). Since the values are averages on 
 the  original values which were already the mean and standard deviation of the 
 euclidean norm of acceleration and gyroscope data, the units of the data are not 
 relevant nor possible to say.
